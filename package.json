@@ -105,7 +105,7 @@
     "chai": "^3.5.0",
     "eslint": "^3.18.0",
     "eslint-plugin-react": "^6.10.3",
-    "js-yaml": "^3.8.2",
+    "js-yaml": "^3.13.1",
     "react-addons-test-utils": "^15.4.2",
     "wdio-allure-reporter": "^0.1.2",
     "wdio-mocha-framework": "^0.5.9",
